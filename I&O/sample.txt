@@ -1,0 +1,39 @@
+ 1 times 2 is 2
+ 2 times 2 is 4
+ 3 times 2 is 8
+ 4 times 2 is 16
+ 5 times 2 is 32
+ 6 times 2 is 64
+ 7 times 2 is 128
+ 8 times 2 is 256
+ 9 times 2 is 512
+10 times 2 is 1024
+11 times 2 is 2048
+12 times 2 is 4096
+--------------------
+ 1 times 2 is 2
+ 2 times 2 is 4
+ 3 times 2 is 6
+ 4 times 2 is 8
+ 5 times 2 is 10
+ 6 times 2 is 12
+ 7 times 2 is 14
+ 8 times 2 is 16
+ 9 times 2 is 18
+10 times 2 is 20
+11 times 2 is 22
+12 times 2 is 24
+--------------------
+ 1 times 2 is 2
+ 2 times 2 is 4
+ 3 times 2 is 6
+ 4 times 2 is 8
+ 5 times 2 is 10
+ 6 times 2 is 12
+ 7 times 2 is 14
+ 8 times 2 is 16
+ 9 times 2 is 18
+10 times 2 is 20
+11 times 2 is 22
+12 times 2 is 24
+--------------------
